@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cnlelema.github.io/dushu/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/dushu/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/dushu/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/dushu/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/dushu/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/dushu/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/dushu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/dushu/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/dushu/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/dushu/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/dushu/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/dushu/en/tags/"
+                />
+  </url>
+  
+</urlset>
